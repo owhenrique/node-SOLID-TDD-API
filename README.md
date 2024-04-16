@@ -14,7 +14,7 @@ This is a simple scalable NodeJS API constructed using SOLID + TDD principles.
 ### Installation
 - Clone this repository
     ```
-    git clone 
+    git clone https://github.com/owhenrique/node-SOLID-TDD-API.git
     ```
 - Inside the repository diretory, install npm packages
     ```
