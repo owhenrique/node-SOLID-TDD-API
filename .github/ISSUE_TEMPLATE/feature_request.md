@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature Request
 about: Suggest an idea for this project
 title: ''
 labels: ''
@@ -7,14 +7,30 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Descrição
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Breve descrição do problema ou tarefa a ser realizada.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Motivação e contexto
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Explicação do porquê essa tarefa ou problema é importante e o contexto por trás dela. Inclua informações relevantes sobre o impacto que essa tarefa ou problema tem no projeto.
+
+## Tarefas
+
+Liste aqui as tarefas que devem ser realizadas para resolver o problema ou implementar a tarefa.
+
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+
+## Critérios de aceitação
+
+Liste aqui os critérios que devem ser atendidos para que a tarefa seja considerada concluída.
+
+- [ ] Critério de aceitação 1
+- [ ] Critério de aceitação 2
+- [ ] Critério de aceitação 3
+
+## Notas adicionais
+
+Qualquer informação adicional que seja relevante para a tarefa ou problema em questão.
