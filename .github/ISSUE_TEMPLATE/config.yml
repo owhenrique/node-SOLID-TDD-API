@@ -1,4 +1,4 @@
-blank_issue_enabled: false
+blank_issue_enabled: true
 contact_links:
   - name: GitHub Community Support
     url: https://github.com/orgs/community/discussions
@@ -8,4 +8,4 @@ contact_links:
     about: Please report security vulnerabilities here.
   - name: @owhenrique X/Twitter
     url: https://twitter.com/hen_abd1
-    about: Contact us with any questions you may have 
+    about: Contact us with any questions you may have. 
